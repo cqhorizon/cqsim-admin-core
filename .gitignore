@@ -1,0 +1,14 @@
+.idea
+*.exe
+temp/
+!temp
+temp/logs
+import/
+
+# go sum
+go.sum
+config/settings_test.yml
+
+# sqlite
+resource.sqlite
+*.zip
