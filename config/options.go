@@ -1,7 +1,7 @@
 package config
 
 import (
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 )
 
 // WithSource appends a source to list of sources

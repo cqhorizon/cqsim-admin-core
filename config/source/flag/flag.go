@@ -1,9 +1,9 @@
 package flag
 
 import (
-	"cqsim-admin-core/config/source"
 	"errors"
 	"flag"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"github.com/imdario/mergo"
 	"strings"
 	"time"

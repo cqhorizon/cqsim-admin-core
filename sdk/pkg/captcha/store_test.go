@@ -6,8 +6,8 @@ import (
 	"testing"
 	"time"
 
-	"cqsim-admin-core/storage"
-	"cqsim-admin-core/storage/cache"
+	"github.com/cqhorizon/cqsim-admin-core/storage"
+	"github.com/cqhorizon/cqsim-admin-core/storage/cache"
 	"github.com/mojocn/base64Captcha"
 )
 

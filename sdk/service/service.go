@@ -3,7 +3,7 @@ package service
 import (
 	"fmt"
 
-	"cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
 )
 
 type Service struct {

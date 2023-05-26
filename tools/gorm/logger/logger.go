@@ -8,7 +8,7 @@ import (
 	"gorm.io/gorm/logger"
 	"gorm.io/gorm/utils"
 
-	loggerCore "cqsim-admin-core/logger"
+	loggerCore "github.com/cqhorizon/cqsim-admin-core/logger"
 )
 
 const (

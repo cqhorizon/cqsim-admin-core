@@ -1,8 +1,8 @@
 package memory
 
 import (
-	"cqsim-admin-core/config/loader"
-	"cqsim-admin-core/config/reader"
+	"github.com/cqhorizon/cqsim-admin-core/config/loader"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader"
 )
 
 // WithSource appends a source to list of sources

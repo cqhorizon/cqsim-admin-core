@@ -2,7 +2,7 @@ package file
 
 import (
 	"context"
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 )
 
 type filePathKey struct{}

@@ -1,10 +1,10 @@
 package json
 
 import (
-	"cqsim-admin-core/config/reader"
-	"cqsim-admin-core/config/source"
 	"encoding/json"
 	"fmt"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"strconv"
 	"strings"
 	"time"

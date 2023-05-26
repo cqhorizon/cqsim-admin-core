@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	"cqsim-admin-core/config/loader"
-	"cqsim-admin-core/config/loader/memory"
-	"cqsim-admin-core/config/reader"
-	"cqsim-admin-core/config/reader/json"
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/loader"
+	"github.com/cqhorizon/cqsim-admin-core/config/loader/memory"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader/json"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 )
 
 type config struct {

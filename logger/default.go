@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	dlog "cqsim-admin-core/debug/log"
+	dlog "github.com/cqhorizon/cqsim-admin-core/debug/log"
 )
 
 func init() {

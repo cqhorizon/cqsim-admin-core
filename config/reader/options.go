@@ -1,9 +1,9 @@
 package reader
 
 import (
-	"cqsim-admin-core/config/encoder"
-	"cqsim-admin-core/config/encoder/json"
-	"cqsim-admin-core/config/encoder/yaml"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder/json"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder/yaml"
 )
 
 type Options struct {

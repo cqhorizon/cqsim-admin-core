@@ -4,9 +4,9 @@ package config
 import (
 	"context"
 
-	"cqsim-admin-core/config/loader"
-	"cqsim-admin-core/config/reader"
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/loader"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 )
 
 // Config is an interface abstraction for dynamic configuration

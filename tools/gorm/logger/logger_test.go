@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	logCore "cqsim-admin-core/logger"
+	logCore "github.com/cqhorizon/cqsim-admin-core/logger"
 	"gorm.io/gorm/logger"
 )
 

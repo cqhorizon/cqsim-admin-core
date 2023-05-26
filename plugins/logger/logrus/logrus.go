@@ -5,7 +5,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
 )
 
 type entryLogger interface {

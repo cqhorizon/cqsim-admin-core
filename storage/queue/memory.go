@@ -5,7 +5,7 @@ import (
 
 	"github.com/google/uuid"
 
-	"cqsim-admin-core/storage"
+	"github.com/cqhorizon/cqsim-admin-core/storage"
 )
 
 type queue chan storage.Messager

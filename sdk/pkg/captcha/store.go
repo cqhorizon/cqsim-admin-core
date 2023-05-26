@@ -1,7 +1,7 @@
 package captcha
 
 import (
-	"cqsim-admin-core/storage"
+	"github.com/cqhorizon/cqsim-admin-core/storage"
 	"github.com/mojocn/base64Captcha"
 )
 

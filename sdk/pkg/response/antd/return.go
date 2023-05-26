@@ -1,7 +1,7 @@
 package antd
 
 import (
-	"cqsim-admin-core/sdk/pkg"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg"
 	"github.com/gin-gonic/gin"
 	"net/http"
 )

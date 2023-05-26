@@ -1,8 +1,8 @@
 package json
 
 import (
-	"cqsim-admin-core/config/encoder"
 	"encoding/json"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder"
 )
 
 type jsonEncoder struct{}

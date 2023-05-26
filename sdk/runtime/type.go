@@ -5,8 +5,8 @@ import (
 	"github.com/gin-gonic/gin"
 	"net/http"
 
-	"cqsim-admin-core/logger"
-	"cqsim-admin-core/storage"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/storage"
 	"gorm.io/gorm"
 )
 

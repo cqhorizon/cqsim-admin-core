@@ -3,11 +3,11 @@ package api
 import (
 	"fmt"
 
-	"cqsim-admin-core/logger"
-	"cqsim-admin-core/sdk/pkg"
-	"cqsim-admin-core/sdk/pkg/response"
-	"cqsim-admin-core/sdk/service"
 	vd "github.com/bytedance/go-tagexpr/v2/validator"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg/response"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/service"
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"
 )

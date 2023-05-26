@@ -10,7 +10,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
 )
 
 type zaplog struct {

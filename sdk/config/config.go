@@ -1,9 +1,9 @@
 package config
 
 import (
-	"cqsim-admin-core/config"
-	"cqsim-admin-core/config/source"
 	"fmt"
+	"github.com/cqhorizon/cqsim-admin-core/config"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"log"
 )
 

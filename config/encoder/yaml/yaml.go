@@ -1,7 +1,7 @@
 package yaml
 
 import (
-	"cqsim-admin-core/config/encoder"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder"
 	"github.com/ghodss/yaml"
 )
 

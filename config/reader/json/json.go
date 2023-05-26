@@ -1,11 +1,11 @@
 package json
 
 import (
-	"cqsim-admin-core/config/encoder"
-	"cqsim-admin-core/config/encoder/json"
-	"cqsim-admin-core/config/reader"
-	"cqsim-admin-core/config/source"
 	"errors"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder/json"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"github.com/imdario/mergo"
 	"time"
 )

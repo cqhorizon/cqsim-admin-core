@@ -4,12 +4,12 @@ import (
 	"io"
 	"os"
 
-	"cqsim-admin-core/debug/writer"
-	"cqsim-admin-core/logger"
-	"cqsim-admin-core/plugins/logger/zap"
-	"cqsim-admin-core/sdk/pkg"
+	"github.com/cqhorizon/cqsim-admin-core/debug/writer"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/plugins/logger/zap"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg"
 
-	log "cqsim-admin-core/logger"
+	log "github.com/cqhorizon/cqsim-admin-core/logger"
 )
 
 // SetupLogger 日志 cap 单位为kb

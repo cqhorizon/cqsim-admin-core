@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"sync"
 
-	"cqsim-admin-core/logger"
-	"cqsim-admin-core/storage"
-	"cqsim-admin-core/storage/queue"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/storage"
+	"github.com/cqhorizon/cqsim-admin-core/storage/queue"
 	"gorm.io/gorm"
 )
 

@@ -3,8 +3,8 @@ package storage
 import (
 	"log"
 
-	"cqsim-admin-core/sdk/config"
-	"cqsim-admin-core/sdk/pkg/captcha"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/config"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg/captcha"
 )
 
 // Setup 配置storage组件

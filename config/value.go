@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"cqsim-admin-core/config/reader"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader"
 )
 
 type value struct{}

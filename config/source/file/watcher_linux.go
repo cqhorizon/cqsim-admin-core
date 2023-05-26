@@ -6,7 +6,7 @@ package file
 import (
 	"os"
 
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"github.com/fsnotify/fsnotify"
 )
 

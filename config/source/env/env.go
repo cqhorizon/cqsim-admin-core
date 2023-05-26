@@ -1,7 +1,7 @@
 package env
 
 import (
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"os"
 	"strconv"
 	"strings"

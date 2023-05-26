@@ -5,8 +5,8 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"cqsim-admin-core/sdk/pkg"
-	jwt "cqsim-admin-core/sdk/pkg/jwtauth"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg"
+	jwt "github.com/cqhorizon/cqsim-admin-core/sdk/pkg/jwtauth"
 )
 
 func ExtractClaims(c *gin.Context) jwt.MapClaims {

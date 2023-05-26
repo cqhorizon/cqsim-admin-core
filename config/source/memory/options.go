@@ -3,7 +3,7 @@ package memory
 import (
 	"context"
 
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 )
 
 type changeSetKey struct{}

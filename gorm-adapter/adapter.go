@@ -15,9 +15,9 @@
 package gormadapter
 
 import (
-	"cqsim-admin-core/pgconn"
 	"errors"
 	"fmt"
+	"github.com/cqhorizon/cqsim-admin-core/pgconn"
 	"runtime"
 	"strings"
 

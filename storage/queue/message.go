@@ -1,7 +1,7 @@
 package queue
 
 import (
-	"cqsim-admin-core/storage"
+	"github.com/cqhorizon/cqsim-admin-core/storage"
 )
 
 type Message struct {

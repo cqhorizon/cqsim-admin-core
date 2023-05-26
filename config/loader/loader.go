@@ -3,8 +3,8 @@ package loader
 
 import (
 	"context"
-	"cqsim-admin-core/config/reader"
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/reader"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 )
 
 // Loader manages loading sources

@@ -1,8 +1,8 @@
 package env
 
 import (
-	"cqsim-admin-core/config/source"
 	"encoding/json"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"os"
 	"testing"
 	"time"

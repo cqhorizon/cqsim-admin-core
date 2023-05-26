@@ -3,7 +3,7 @@ package antd
 import (
 	"fmt"
 
-	resp "cqsim-admin-core/sdk/pkg/response"
+	resp "github.com/cqhorizon/cqsim-admin-core/sdk/pkg/response"
 )
 
 type Response struct {

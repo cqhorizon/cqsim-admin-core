@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
 	"github.com/google/uuid"
 )
 

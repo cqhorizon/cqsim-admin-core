@@ -5,7 +5,7 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"cqsim-admin-core/sdk/pkg"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg"
 )
 
 var Default = &response{}

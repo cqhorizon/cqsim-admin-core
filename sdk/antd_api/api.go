@@ -1,15 +1,15 @@
 package antd_apis
 
 import (
-	"cqsim-admin-core/sdk/service"
 	"fmt"
 	vd "github.com/bytedance/go-tagexpr/v2/validator"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/service"
 	"github.com/gin-gonic/gin/binding"
 	"strconv"
 
-	"cqsim-admin-core/logger"
-	"cqsim-admin-core/sdk/api"
-	"cqsim-admin-core/sdk/pkg/response/antd"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/api"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg/response/antd"
 	"github.com/gin-gonic/gin"
 	"gorm.io/gorm"
 )

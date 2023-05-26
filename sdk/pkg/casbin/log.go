@@ -3,7 +3,7 @@ package mycasbin
 import (
 	"sync/atomic"
 
-	"cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
 )
 
 // Logger is the implementation for a Logger using golang log.

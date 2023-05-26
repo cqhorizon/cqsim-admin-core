@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"cqsim-admin-core/config/source"
-	"cqsim-admin-core/config/source/env"
-	"cqsim-admin-core/config/source/file"
-	"cqsim-admin-core/config/source/memory"
+	"github.com/cqhorizon/cqsim-admin-core/config/source"
+	"github.com/cqhorizon/cqsim-admin-core/config/source/env"
+	"github.com/cqhorizon/cqsim-admin-core/config/source/file"
+	"github.com/cqhorizon/cqsim-admin-core/config/source/memory"
 )
 
 func createFileForIssue18(t *testing.T, content string) *os.File {

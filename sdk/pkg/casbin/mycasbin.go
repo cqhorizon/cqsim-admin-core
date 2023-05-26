@@ -6,7 +6,7 @@ import (
 	"github.com/casbin/casbin/v2/model"
 	"gorm.io/gorm"
 
-	gormAdapter "cqsim-admin-core/gorm-adapter"
+	gormAdapter "github.com/cqhorizon/cqsim-admin-core/gorm-adapter"
 )
 
 // Initialize the model from a string.

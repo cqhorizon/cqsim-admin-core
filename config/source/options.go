@@ -2,8 +2,8 @@ package source
 
 import (
 	"context"
-	"cqsim-admin-core/config/encoder"
-	"cqsim-admin-core/config/encoder/json"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder"
+	"github.com/cqhorizon/cqsim-admin-core/config/encoder/json"
 )
 
 type Options struct {

@@ -1,9 +1,9 @@
 package file_test
 
 import (
-	"cqsim-admin-core/config"
-	"cqsim-admin-core/config/source/file"
 	"fmt"
+	"github.com/cqhorizon/cqsim-admin-core/config"
+	"github.com/cqhorizon/cqsim-admin-core/config/source/file"
 	"os"
 	"path/filepath"
 	"testing"

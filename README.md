@@ -1,4 +1,4 @@
-# cqsim-admin-core 公共代码库
+# github.com/cqhorizon/cqsim-admin-core 公共代码库
 
 ### 功能
 - [x] log组件

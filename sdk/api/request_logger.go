@@ -5,9 +5,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 
-	"cqsim-admin-core/logger"
-	"cqsim-admin-core/sdk"
-	"cqsim-admin-core/sdk/pkg"
+	"github.com/cqhorizon/cqsim-admin-core/logger"
+	"github.com/cqhorizon/cqsim-admin-core/sdk"
+	"github.com/cqhorizon/cqsim-admin-core/sdk/pkg"
 )
 
 // GetRequestLogger 获取上下文提供的日志
