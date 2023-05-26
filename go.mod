@@ -1,4 +1,4 @@
-module github.com/cqhorizon/github.com/cqhorizon/cqsim-admin-core
+module github.com/cqhorizon/cqsim-admin-core
 
 go 1.19
 

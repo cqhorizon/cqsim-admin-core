@@ -2,7 +2,6 @@ package captcha
 
 import (
 	"github.com/cqhorizon/cqsim-admin-core/storage"
-	"github.com/mojocn/base64Captcha"
 )
 
 type cacheStore struct {
@@ -13,7 +12,7 @@ type cacheStore struct {
 // NewCacheStore returns a new standard memory store for captchas with the
 // given collection threshold and expiration time (duration). The returned
 // store must be registered with SetCustomStore to replace the default one.
-func NewCacheStore(cache storage.AdapterCache, expiration int) base64Captcha.Store {
+func NewCacheStore(cache storage.AdapterCache, expiration int) *cacheStore {
 	s := new(cacheStore)
 	s.cache = cache
 	s.expiration = expiration
